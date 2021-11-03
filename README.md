@@ -1,5 +1,5 @@
 # Landing page
-
+![](assets/laning.png)
 Landing page created using JQuery and PHP with MySQL database.
 
 ### How to use?
